@@ -29,6 +29,6 @@ class Solution {
             map.get(key).add(str);
         }
 
-        return new ArrayList<>(map.values());
+        return new ArrayList(map.values());
     }
 }
