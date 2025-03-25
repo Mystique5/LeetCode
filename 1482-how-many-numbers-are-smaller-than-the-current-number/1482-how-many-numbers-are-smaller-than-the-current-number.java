@@ -16,7 +16,7 @@ class Solution {
         }
          return result;*/
 
-         //Optimised O(3N) method 
+         //Optimised O(2N+101) method 
 
          int[] count=new int[101];
          int[] result=new int[nums.length];
