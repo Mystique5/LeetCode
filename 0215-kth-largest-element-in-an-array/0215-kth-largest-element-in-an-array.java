@@ -5,12 +5,10 @@ class Solution {
 
         for(int num : nums)
         {
-            if(pq.size()<k)
-                pq.offer(num);
-            else if(pq.peek()<= num)
+            pq.offer(num);
+            if(pq.size() >k)
             {
                 pq.poll();
-                pq.offer(num);
             }
         }
 
