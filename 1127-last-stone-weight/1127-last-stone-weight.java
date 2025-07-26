@@ -11,7 +11,7 @@ class Solution {
         {
             pq.offer(pq.poll()-pq.poll());
         }
-        return pq.poll();
+        return pq.isEmpty() ? 0 : pq.poll();
         
     }
 }
