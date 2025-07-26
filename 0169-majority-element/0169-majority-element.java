@@ -1,22 +1,21 @@
 class Solution {
     public int majorityElement(int[] nums) {
 
-        HashMap<Integer, Integer> hash=new HashMap<>();
-        int result=0;
-        int majority=0;
+       Map<Integer, Integer> count=new HashMap<>();
+       int majority=nums[0];
 
-        for(int n : nums)
+       for(int num : nums)
+       {
+            count.put(num, count.getOrDefault(num, 0)+1);
+       }
+       System.out.println(count);
+
+        for(int key : count.keySet())
         {
-            hash.put(n, 1+hash.getOrDefault(n,0));
-            if(hash.get(n)>majority)
-            {
-                majority++;
-                result=n;
-            }
+            if(count.get(key) > nums.length/2)
+                majority=key;
         }
 
-        return result;
-
-        
+        return majority;
     }
 }
