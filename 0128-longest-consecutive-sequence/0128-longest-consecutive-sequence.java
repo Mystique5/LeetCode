@@ -3,19 +3,29 @@ class Solution {
 
         if(nums.length==0)
             return 0;
-        Arrays.sort(nums);
-        int res=1, curr=1;
+        int res=1;
 
-        for(int i=1;i<nums.length;i++)
+        HashSet<Integer> numset=new HashSet<>();
+
+        for(int n:nums)
+            numset.add(n);
+        
+        for(int val : numset)
         {
-            if(nums[i]==nums[i-1])
+            if(numset.contains(val-1))
                 continue;
-            if(nums[i]==nums[i-1]+1)
-                curr++;
             else
-                curr=1;
+            {
+                int currentNum=val;
+                int curr=1;
+                while(numset.contains(currentNum+1))
+                {
+                    currentNum++;
+                    curr++;
+                }
+                res=Math.max(res, curr);
+            }
             
-            res=Math.max(res,curr);
         }
 
         return res;
