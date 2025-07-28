@@ -6,14 +6,11 @@ class Solution {
 
         for(int i=1;i<prices.length;i++)
         {
-            if(prices[i] > buy)
-            {
-                profit=Math.max(profit, prices[i]-buy);
-            }
-            else
-            {
+            if(prices[i]<buy)
                 buy=prices[i];
-            }
+
+            profit=Math.max(profit, prices[i]-buy);
+   
         }
 
         return profit;
