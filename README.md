@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mystique5/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mystique5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mystique5/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mystique5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Mystique5/LeetCode/tree/master/0768-partition-labels) |
 ## Stack
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mystique5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mystique5/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mystique5/LeetCode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mystique5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Mystique5/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mystique5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mystique5/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Mystique5/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Mystique5/LeetCode/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mystique5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Mystique5/LeetCode/tree/master/0768-partition-labels) |
 ## Monotonic Stack
