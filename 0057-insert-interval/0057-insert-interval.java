@@ -1,43 +1,30 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         
-        LinkedList<int[]> result=new LinkedList<>();
+        List<int[]> result=new ArrayList<>();
+        boolean inserted=false;
 
-        int newStart=newInterval[0];
-        int newEnd=newInterval[1];
-        int left=0, right=intervals.length;
-
-        while(left < right && intervals[left][0] < newStart)
+        for(int[] i:intervals)
         {
-            result.add(intervals[left]);
-            left++;
-        }
-
-        int[] temp=new int[2];
-
-        if(result.isEmpty() || result.getLast()[1] < newStart)
-            result.add(newInterval);
-        else
-        {
-            temp=result.removeLast();
-            temp[1]=Math.max(temp[1],newEnd);
-            result.add(temp);
-        }
-        while(left < right)
-        {
-            temp=intervals[left++];
-            int start=temp[0];
-            int end=temp[1];
-            if(result.getLast()[1] < temp[0])
-                result.add(temp);
-            else
+            if(i[1] < newInterval[0])
+                result.add(i);
+            else if(i[0] >newInterval[1])
             {
-                temp=result.removeLast();
-                temp[1]=Math.max(temp[1],end);
-                result.add(temp);
+                if(!inserted)
+                {
+                    result.add(newInterval);
+                    inserted=true;
+                }
+                result.add(i);
+            }
+            else{
+                newInterval[0]=Math.min(i[0], newInterval[0]);
+                newInterval[1]=Math.max(i[1], newInterval[1]);
             }
         }
-
+        if(!inserted)
+        result.add(newInterval);
+        
         return result.toArray(new int[result.size()][2]);
     }
 }
