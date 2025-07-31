@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mystique5/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mystique5/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mystique5/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Mystique5/LeetCode/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mystique5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mystique5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mystique5/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
