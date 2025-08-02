@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mystique5/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mystique5/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mystique5/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Mystique5/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Mystique5/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mystique5/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mystique5/LeetCode/tree/master/0344-reverse-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Mystique5/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mystique5/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Mystique5/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Mystique5/LeetCode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mystique5/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Mystique5/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Mystique5/LeetCode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Mystique5/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Mystique5/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mystique5/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Mystique5/LeetCode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
