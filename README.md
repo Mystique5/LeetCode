@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Mystique5/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mystique5/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mystique5/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Mystique5/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Mystique5/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mystique5/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mystique5/LeetCode/tree/master/0217-contains-duplicate) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mystique5/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mystique5/LeetCode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mystique5/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -316,5 +318,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Mystique5/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mystique5/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Mystique5/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Mystique5/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Mystique5/LeetCode/tree/master/0206-reverse-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mystique5/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
