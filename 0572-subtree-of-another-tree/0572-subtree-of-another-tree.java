@@ -18,10 +18,8 @@ class Solution {
     {
         if(root ==null && subRoot==null)
             return true;
-        if(root == null || subRoot==null)
-            return false;
         
-        if(root.val==subRoot.val)
+        if(root!=null && subRoot !=null && root.val==subRoot.val)
         {
             return isIdentical(root.left , subRoot.left) && isIdentical(root.right, subRoot.right);
         }
