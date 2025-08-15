@@ -18,18 +18,18 @@ class Solution {
         
         if(root==null)
             return null;
-        
-        Queue<TreeNode> q=new LinkedList<>();
+    //1. Approach 1-- Iterative method
+       /* Queue<TreeNode> q=new LinkedList<>();
         q.offer(root);
         // int i=0;
 
         while(!q.isEmpty())
         {
         //Print for checking the queue at each iteration
-            /*System.out.println("Iteration no : "+ i++ +" -->");
-            for (TreeNode node : q) {
-            System.out.print(node.val + " ");
-            }*/
+            // System.out.println("Iteration no : "+ i++ +" -->");
+            // for (TreeNode node : q) {
+            // System.out.print(node.val + " ");
+            // }
 
 
             System.out.println();
@@ -43,6 +43,17 @@ class Solution {
             if(node.right !=null)
                 q.offer(node.right);      
         }
+        return root;*/
+    
+    //2. Approach 2 --> Recurtion Method
+
+        TreeNode left= invertTree(root.left);
+        TreeNode right= invertTree(root.right);
+
+        root.left=right;
+        root.right=left;
+
+
         return root;
     }
 }
