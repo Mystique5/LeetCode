@@ -22,7 +22,7 @@ class Solution {
             this.ht=ht;
             this.diam=diam;
         }
-    
+    }
     public Info diameter(TreeNode root)
     {
         if(root==null)
@@ -41,10 +41,8 @@ class Solution {
 
         return new Info(myHeight, myDiam);
     }
-    }
     public int diameterOfBinaryTree(TreeNode root) {
 
-        Info obj=new Info(0,0);
-        return obj.diameter(root).diam;   
+        return diameter(root).diam;   
     }
 }
