@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mystique5/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mystique5/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Mystique5/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mystique5/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mystique5/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mystique5/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mystique5/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Mystique5/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mystique5/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Mystique5/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mystique5/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mystique5/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Mystique5/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mystique5/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -365,5 +368,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mystique5/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Mystique5/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Mystique5/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
