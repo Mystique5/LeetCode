@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mystique5/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Mystique5/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mystique5/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Mystique5/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Mystique5/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mystique5/LeetCode/tree/master/0268-missing-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Mystique5/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Counting Sort
 |  |
 | ------- |
