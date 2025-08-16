@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mystique5/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Mystique5/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mystique5/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Mystique5/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mystique5/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mystique5/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mystique5/LeetCode/tree/master/0768-partition-labels) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mystique5/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/Mystique5/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
