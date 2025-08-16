@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Mystique5/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mystique5/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Mystique5/LeetCode/tree/master/1127-last-stone-weight) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mystique5/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Mystique5/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mystique5/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Mystique5/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Mystique5/LeetCode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Mystique5/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mystique5/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Mystique5/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Bit Manipulation
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mystique5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Mystique5/LeetCode/tree/master/0768-partition-labels) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mystique5/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Monotonic Stack
 |  |
 | ------- |
