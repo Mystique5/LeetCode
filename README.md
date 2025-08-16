@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Mystique5/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mystique5/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mystique5/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Mystique5/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mystique5/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
