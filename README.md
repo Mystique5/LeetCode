@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Mystique5/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mystique5/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1646-kth-missing-positive-number](https://github.com/Mystique5/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Mystique5/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mystique5/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Mystique5/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mystique5/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Mystique5/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Mystique5/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Mystique5/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Sliding Window
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mystique5/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Mystique5/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Queue
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Mystique5/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mystique5/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mystique5/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Mystique5/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Doubly-Linked List
 |  |
 | ------- |
