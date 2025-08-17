@@ -29,7 +29,7 @@ class Solution {
             ansMap.get(key).add(s);
         }
 
-        return new ArrayList(ansMap.values());
+        return new ArrayList<>(ansMap.values());
         
     }
 }
