@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mystique5/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mystique5/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mystique5/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/Mystique5/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mystique5/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1014-k-closest-points-to-origin](https://github.com/Mystique5/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mystique5/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mystique5/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mystique5/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mystique5/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Mystique5/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mystique5/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mystique5/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mystique5/LeetCode/tree/master/0768-partition-labels) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Mystique5/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Mystique5/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Mystique5/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Mystique5/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Mystique5/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Sliding Window
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mystique5/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Mystique5/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Mystique5/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Queue
 |  |
