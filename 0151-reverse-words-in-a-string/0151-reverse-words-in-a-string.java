@@ -3,12 +3,14 @@ class Solution {
 
         
         String[] str=s.trim().split("\\s+");
-        String ans="";
+        StringBuilder ans=new StringBuilder();
 
         for(int i=str.length-1 ; i>0; i--)
         {
-            ans += str[i]+" ";
+            ans.append(str[i]).append(" ");
         }
-        return ans+str[0];
+        ans.append(str[0]);
+
+        return ans.toString();
     }
 }
