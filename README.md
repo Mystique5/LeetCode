@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Mystique5/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Mystique5/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mystique5/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Mystique5/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Mystique5/LeetCode/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mystique5/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mystique5/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mystique5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mystique5/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Mystique5/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Mystique5/LeetCode/tree/master/0768-partition-labels) |
 ## Stack
 |  |
