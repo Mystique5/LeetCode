@@ -1,28 +1,10 @@
 class Solution {
-
     public boolean isAnagram(String s, String t) {
 
-        if(s.length() != t.length())
-            return false;
-        
-        int arr[]=new int[26];
-        Arrays.fill(arr, 0);
+        boolean isAnagram =
+            s.length() == t.length() && s.chars().sorted().boxed().collect(Collectors.toList()).equals(t.chars().sorted().boxed().collect(Collectors.toList()));
 
-        for(int i=0;i<s.length();i++)
-        {
-            arr[s.charAt(i)-'a']++;
-            arr[t.charAt(i)-'a']--;
-        }
-
-        for(int val:arr)
-        {
-            if(val!=0)
-                return false;
-        }
-        return true;
-
-
-
+            return isAnagram;
         
     }
 }
