@@ -14,7 +14,7 @@ class Solution {
         {
             char ch=s.charAt(right);
 
-            while(present.contains(ch) && !present.isEmpty())
+            while(present.contains(ch))
             {
                 present.remove(s.charAt(left));
                 left++;
