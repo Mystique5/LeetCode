@@ -2,7 +2,7 @@ class Solution {
     public int trap(int[] height) {
 
         //Approach 2
-       /* int n=height.length;
+        int n=height.length;
         int water=0;
 
         int left=0;
@@ -12,29 +12,24 @@ class Solution {
 
         while(left < right)
         {
-            if(height[left] < height[right])
+            leftMax=Math.max(leftMax, height[left]);
+            rightMax=Math.max(rightMax, height[right]);
+            if(leftMax < rightMax)
             {
-                leftMax=Math.max(leftMax, height[left]);
-                if(leftMax-height[left] >0)
-                {
-                    water +=leftMax-height[left];
-                }
+                water +=leftMax-height[left];
                 left++;
             }
             else
             {
-                rightMax=Math.max(rightMax, height[right]);
-                if(rightMax-height[right] >0)
-                {
-                    water +=rightMax- height[right];
-                }
+                water +=rightMax- height[right];
                 right--;
             }
         }
 
-        return water;*/
+        return water;
 
-        int n=height.length;
+        //Approach 1
+       /* int n=height.length;
 
         int[] left=new int[n];
         int[] right=new int[n];
@@ -59,7 +54,7 @@ class Solution {
             water +=Math.min(left[i],right[i])-height[i];
         }
 
-        return water;
+        return water;*/
         
     }
 }
