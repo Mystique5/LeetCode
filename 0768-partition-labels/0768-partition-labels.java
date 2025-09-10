@@ -3,24 +3,26 @@ class Solution {
 
         int[] lastOcc=new int[26];
         List<Integer> result=new ArrayList<>();
+        int len=s.length();
 
-        for(int i=0;i<s.length();i++)
+        for(int i=len-1 ; i>= 0;i--)
         {
-            lastOcc[s.charAt(i)-'a']=i;
+            if(lastOcc[s.charAt(i) -'a']==0)
+                lastOcc[s.charAt(i) -'a'] =i;
         }
-        int endPartition=0;
-        int startPartition=0;
+        int start=0, end=0;
 
-        for(int i=0;i<s.length();i++)
+        for(int i=0;i<len;i++)
         {
-            endPartition=Math.max(endPartition, lastOcc[s.charAt(i)-'a']);
-            if(i==endPartition)
+            end=Math.max(end, lastOcc[s.charAt(i) - 'a']);
+            if(i==end)
             {
-                result.add(endPartition-startPartition+1);
-                startPartition=i+1;
+                result.add(end-start+1);
+                start=i+1;
             }
         }
+
         return result;
-        
+
     }
 }
